@@ -16,7 +16,7 @@ if os.listdir(out_dir):
 	sys.exit()
 
 # Get a temporary token here: https://developers.facebook.com/tools/explorer/
-access_token = 'EAACEdEose0cBANRZBm1CDAPA5ni3RAOhpD0gIVmhiMEZAG01zF4irLfugr6iSotdr0qrRQjh1VuNmA0UT0sN7TVYwZAT9IIhhh2FrZBeFLaF1UiHgDwg9lcrUFZAQnSi5dbJI34LWsFletBRKtcPtXVSaoq1WSWvfDNjQVLcxzQZDZD'
+access_token = 'XXX'
 
 def get_album_ids(g, uid):
 	"""Retrieve all the album IDs an user have."""
